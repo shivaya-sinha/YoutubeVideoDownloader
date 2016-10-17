@@ -1,7 +1,6 @@
 # YoutubeVideoDownloader
 Downloads Youtube Videos.
 
-This is pretty simple and straightforward.
 
 Just copy the link of the youtube video/playlist URL and just run the script.
 
